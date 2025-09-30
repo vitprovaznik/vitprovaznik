@@ -19,7 +19,7 @@
 ---
 
 ### 🌍 Connect With Me
-- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/vitprovaznik)
+- GitHub: [vitprovaznik](https://github.com/vitprovaznik)
 - (optional: add LinkedIn, portfolio, or email)
 
 ---
