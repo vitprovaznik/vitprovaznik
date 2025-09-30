@@ -14,12 +14,12 @@
 ---
 
 ### 📈 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitprovaznik&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🌍 Connect With Me
-- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/vitprovaznik)
 - (optional: add LinkedIn, portfolio, or email)
 
 ---
