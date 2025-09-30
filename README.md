@@ -1,21 +1,28 @@
-## Hi there 👋
-- 🔭 I’m currently working on learning new programing languages and codin.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on some begginer projects.
-- 🤔 I’m looking for help with coding
-- 💬 Ask me about climbing.
-- 📫 How to reach me: IG: listopad________
-- 😄 Pronouns: mo/torka
-- ⚡ Fun fact: mam rad brambory
-<!--
-**vita55zije/vita55zije** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-HI my name is Listoapd:D.
-- 🔭 I’m currently working on learning new programing languages and codin.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on some begginer projects.
-- 🤔 I’m looking for help with coding
-- 💬 Ask me about climbing.
-- 📫 How to reach me: IG: listopad________
-- 😄 Pronouns: mo/torka
-- ⚡ Fun fact: mam rad brambory
--->
+# 👋 Hi, I'm Vít
+
+🎓 I'm a **student** passionate about learning web and software development.  
+💻 Currently studying **React, HTML, CSS, and C#**.  
+🚀 My goal is to keep improving my skills and share projects here on GitHub.  
+
+---
+
+### 🛠️ Technologies & Tools
+- 🌐 Frontend: HTML, CSS, React
+- ⚙️ Backend: C#
+- 🧑‍💻 Always exploring new tools and frameworks
+
+---
+
+### 📈 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌍 Connect With Me
+- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+- (optional: add LinkedIn, portfolio, or email)
+
+---
+
+⭐️ Thanks for visiting my profile!
+
