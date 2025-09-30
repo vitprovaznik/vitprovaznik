@@ -20,7 +20,7 @@
 
 ### 🌍 Connect With Me
 - GitHub: [vitprovaznik](https://github.com/vitprovaznik)
-- (optional: add LinkedIn, portfolio, or email)
+- Instagram: [listopad________](https://www.instagram.com/listopad________/)
 
 ---
 
